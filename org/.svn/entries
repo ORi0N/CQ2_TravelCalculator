@@ -1,0 +1,34 @@
+8
+
+dir
+8
+http://192.168.1.7/svn/TravelCalc/src/org
+http://192.168.1.7/svn
+
+
+
+2009-06-03T21:15:40.034478Z
+4
+carl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+af67ee7b-4c51-9442-aee6-3d62784501bb
+
+netbeans
+dir
+
+jdesktop
+dir
+

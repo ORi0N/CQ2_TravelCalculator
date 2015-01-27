@@ -1,0 +1,52 @@
+8
+
+dir
+8
+http://192.168.1.7/svn/TravelCalc/src/org/netbeans/lib/awtextra
+http://192.168.1.7/svn
+
+
+
+2009-06-03T21:15:40.034478Z
+4
+carl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+af67ee7b-4c51-9442-aee6-3d62784501bb
+
+AbsoluteConstraints.java
+file
+
+
+
+delete
+2009-07-10T11:14:52.000000Z
+fcfc0bd46a874c92325a0d0c3cc82da1
+2009-06-03T21:15:40.034478Z
+4
+carl
+
+AbsoluteLayout.java
+file
+
+
+
+delete
+2009-07-10T11:14:52.000000Z
+295fc599774fcd3df3feb3190b4b4081
+2009-06-03T21:15:40.034478Z
+4
+carl
+
